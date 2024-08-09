@@ -1,1 +1,2 @@
-# agrinho-programa-o
+# agrinho-programação
+Do Campo à Cidade: Colhendo Oportunidades é um site dedicado a conectar o campo e a cidade através da promoção de oportunidades e soluções inovadoras. Este portal oferece uma visão abrangente das tendências e oportunidades de desenvolvimento rural e urbano, destacando iniciativas que impulsionam o crescimento econômico e social em ambas as áreas. Com recursos informativos, histórias inspiradoras e um diretório de projetos e parcerias, o site visa facilitar o acesso a recursos e promover a colaboração entre os ambientes rural e urbano, celebrando a integração e o progresso mútuo.
